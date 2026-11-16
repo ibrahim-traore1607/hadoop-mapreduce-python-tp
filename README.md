@@ -155,7 +155,7 @@ hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-3.5.0.jar -D map
 
 ## Compte rendu
 
-Le compte rendu détaillé (commandes, code commenté ligne par ligne, résultats, captures et réponses aux questions de synthèse) se trouve dans [`compte_rendu/TP_hadoop.md`](compte_rendu/TP_hadoop.md). Les images sont lues dans `compte_rendu/captures/` : le dossier doit rester à côté du fichier `.md`.
+Le compte rendu détaillé (commandes, code commenté ligne par ligne, résultats, captures et réponses aux questions de synthèse) se trouve dans [`compte_rendu/TP_hadoop.md`](compte_rendu/TP_hadoop.md). 
 
 ## Limites et état d'avancement
 
