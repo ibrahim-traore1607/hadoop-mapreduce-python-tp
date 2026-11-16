@@ -59,11 +59,7 @@ Interfaces web : NameNode `http://localhost:9870`, ResourceManager `http://local
 │   ├── generation.py                           # génère notes.csv
 │   ├── mapper_notes.py / combiner_notes.py / reducer_notes.py   # moyenne par matière
 │   └── mapper_index.py / reducer_index.py      # index inversé
-└── data/                         # jeux de données d'entrée
-    ├── poeme.txt
-    ├── vente.csv
-    ├── meteo.txt
-    └── notes.csv
+
 ```
 
 ## Exercices
